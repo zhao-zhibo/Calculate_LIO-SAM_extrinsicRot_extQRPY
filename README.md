@@ -9,6 +9,8 @@
 
 `cd Calculate_LIO-SAM_extrinsicRot_extQRPY`
 
+`catkin_make`
+
 `source devel/setup.bash`
 
 `rosrun system system_task`
